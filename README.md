@@ -5,3 +5,7 @@ GFW control the data transfer to foreign countries. The proper way to cross the 
 Building a efficient proxy is never easy, yet it is not hard when you have a team. Current proxy model faces multiple problems, including the IP blocking, domain problem. This proposal is focus on building a distributed system for proxy. In the distributed system, it will use multiple IPs, each IP uses a different key to encrypted the connections. The client should be able to jamming firewall, misleading firewall.
 
 Wether or not there are partners with me, I will currently focus on this project as a practice for the programming language I studied, C++ and Python. If you are interested in this small project, feel free to leave a comment.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DengYiping/supersocks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
